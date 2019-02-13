@@ -1,0 +1,164 @@
+[
+  {
+    "code": 1548995034317,
+    "title": "Retina Google",
+    "rate": 8,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "price": 200,
+    "brand": "rock blues",
+    "memory":[32,64,128],
+    "testimony": [
+      {
+        "person": "hasan",
+        "message": " barangnya mantap"
+      }
+    ],
+    "color":["black","white","red"],
+    "image":"https://api-hsanshop.herokuapp.com/images/a.jpg"
+    
+  },
+  {
+    "code": 1548995064869,
+    "title": "Microsoft Surface",
+    "rate": 8,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "price": 200,
+    "brand": "rock blues",
+    "memory":[32,64,128],
+    "testimony": [
+      {
+        "person": "hasan",
+        "message": " barangnya mantap"
+      }
+    ],
+    "color":["black","white","red"],
+    "image":"https://api-hsanshop.herokuapp.com/images/b.jpg"
+    
+  },
+  {
+    "code": 1548995080577,
+    "title": "Samsung Air", 
+    "rate": 8,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "price": 200,
+    "brand": "rock blues",
+    "memory":[32,64,128],
+    "testimony": [
+      {
+        "person": "hasan",
+        "message": " barangnya mantap"
+      }
+    ],
+    "color":["black","white","red"],
+    "image":"https://api-hsanshop.herokuapp.com/images/c.jpg"
+    
+  },
+  {
+    "code": 1548995092271,
+    "title": "Mi book",
+    "rate": 8,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "price": 200,
+    "brand": "rock blues",
+    "memory":[32,64,128],
+    "testimony": [
+      {
+        "person": "hasan",
+        "message": " barangnya mantap"
+      }
+    ],
+    "color":["black","white","red"],
+    "image":"https://api-hsanshop.herokuapp.com/images/8.jpg"
+    
+  },
+  {
+    "code": 1548995147653,
+    "title": "Iphone X",
+    "rate": 8,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "price": 200,
+    "brand": "rock blues",
+    "memory":[32,64,128],
+    "testimony": [
+      {
+        "person": "hasan",
+        "message": " barangnya mantap"
+      }
+    ],
+    "color":["black","white","red"],
+    "image":"https://api-hsanshop.herokuapp.com/images/1.jpg"
+    
+  },
+  {
+    "code": 1548995165623,
+    "title": "Iphone 7+",
+    "rate": 8,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "price": 200,
+    "brand": "rock blues",
+    "memory":[32,64,128],
+    "testimony": [
+      {
+        "person": "hasan",
+        "message": " barangnya mantap"
+      }
+    ],
+    "color":["black","white","red"],
+    "image":"https://api-hsanshop.herokuapp.com/images/2.jpg"
+    
+  },
+  {
+    "code": 1548995165623,
+    "title": "Mi Phone 8",
+    "rate": 8,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "price": 200,
+    "brand": "rock blues",
+    "memory":[32,64,128],
+    "testimony": [
+      {
+        "person": "hasan",
+        "message": " barangnya mantap"
+      }
+    ],
+    "color":["black","white","red"],
+    "image":"https://api-hsanshop.herokuapp.com/images/3.jpg"
+    
+  },
+  {
+    "code": 1548995250999,
+    "title": "Samsung Phone 6S",
+    "rate": 8,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "price": 200,
+    "brand": "rock blues",
+    "memory":[32,64,128],
+    "testimony": [
+      {
+        "person": "hasan",
+        "message": " barangnya mantap"
+      }
+    ],
+    "color":["black","white","red"],
+    "image":"https://api-hsanshop.herokuapp.com/images/4.jpg"
+    
+  },
+  {
+    "code": 1548995308505,
+    "title": "Pro book 2",
+    "rate": 8,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "price": 200,
+    "brand": "rock blues",
+    "memory":[32,64,128],
+    "testimony": [
+      {
+        "person": "hasan",
+        "message": " barangnya mantap"
+      }
+    ],
+    "color":["black","white","red"],
+    "image":"https://api-hsanshop.herokuapp.com/images/5.jpg"
+    
+  }
+]

@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono:500,700');
+
+*{
+  font-family: Roboto Mono;
+  font-weight: bold
+}
+#body {
+  
+  /* background: #f2f4f8; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  height: 100vh;
+    
+}
+.card_container{
+    
+    display: flex;
+    justify-content: space-around;
+    width: 24%;
+    max-width: 77%;        
+    opacity: 0.92;
+}
+.card {
+  width: 71%;
+  height: 321px;
+  background: #fff;
+  border-radius: 15px;
+  overflow: hidden;
+  display: flex;  
+  justify-content: center;
+  align-items: center;  
+  box-shadow: 0 14px 26px rgba(0,0,0,0.04);  
+  text-decoration: none;
+  flex-flow: column wrap;
+  margin-bottom: 4%;
+  --bg-color: #2d2d2d;
+  --bg-color-light: #ffeeba;
+  --text-color-hover: #4C5656;
+  --box-shadow-color: rgba(32, 33, 43, 0.31);
+}
+
+
+.card  .img-product {      
+  width: 100%;
+  height: 61%;  
+  display: flex;
+  justify-content: center;
+  align-items: center
+  
+}
+
+.card .info-product{  
+  width: 100%;
+  display: flex;  
+  margin-top: -1em;
+  flex-flow: row nowrap;
+  height: 20%;
+  color: rgb(39, 41, 41)  
+}
+
+.info-product .name-product{
+  flex-grow: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center
+}
+.info-product .price-product{
+  flex-grow: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center
+}
+
+.card button{
+  height: 35px;
+  width: 41%;
+  border: 0.5px solid black;
+  outline: none;
+  border-radius: 5px;
+  font-size: 16px;  
+  cursor: pointer;
+}
+.card button:hover{
+  transform: translateY(-5px) scale(1.005) translateZ(0);
+    color:white;
+    border: 1.5px solid black;
+    
+}
+
+.card:hover {
+  box-shadow: 0 24px 36px rgba(0,0,0,0.11),
+    0 24px 46px var(--box-shadow-color);
+    transform: translateY(-5px) scale(1.005) translateZ(0);
+}
+
+
+
+/* =============== BUTTON */
+
+
+#fixed_button {
+  position: relative;  
+  z-index: 100;
+  margin:3% 0 4% 43%;
+  border-left:4px solid red;
+  width: 120px;
+  background-color:black;
+  color:white;
+  
+  border-radius: 5px;
+  outline: none;  
+  font-size: 1.3em;
+}
+#fixed_button:hover{
+  cursor: pointer;
+}
+
+.loading{
+  margin-top: 500px !important
+}
